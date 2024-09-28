@@ -1,0 +1,13 @@
+C:\Projects\LampShade\0_Framework\bin\Debug\net8.0\0_Framework.deps.json
+C:\Projects\LampShade\0_Framework\bin\Debug\net8.0\0_Framework.dll
+C:\Projects\LampShade\0_Framework\bin\Debug\net8.0\0_Framework.pdb
+C:\Projects\LampShade\0_Framework\obj\Debug\net8.0\0_Framework.csproj.AssemblyReference.cache
+C:\Projects\LampShade\0_Framework\obj\Debug\net8.0\0_Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\LampShade\0_Framework\obj\Debug\net8.0\0_Framework.AssemblyInfoInputs.cache
+C:\Projects\LampShade\0_Framework\obj\Debug\net8.0\0_Framework.AssemblyInfo.cs
+C:\Projects\LampShade\0_Framework\obj\Debug\net8.0\0_Framework.csproj.CoreCompileInputs.cache
+C:\Projects\LampShade\0_Framework\obj\Debug\net8.0\0_Framework.sourcelink.json
+C:\Projects\LampShade\0_Framework\obj\Debug\net8.0\0_Framework.dll
+C:\Projects\LampShade\0_Framework\obj\Debug\net8.0\refint\0_Framework.dll
+C:\Projects\LampShade\0_Framework\obj\Debug\net8.0\0_Framework.pdb
+C:\Projects\LampShade\0_Framework\obj\Debug\net8.0\ref\0_Framework.dll

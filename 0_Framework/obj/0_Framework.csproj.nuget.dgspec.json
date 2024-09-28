@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\LampShade\\LampShade\\0_Framework\\0_Framework.csproj": {}
+    "C:\\Projects\\LampShade\\0_Framework\\0_Framework.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\LampShade\\LampShade\\0_Framework\\0_Framework.csproj": {
+    "C:\\Projects\\LampShade\\0_Framework\\0_Framework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\LampShade\\LampShade\\0_Framework\\0_Framework.csproj",
+        "projectUniqueName": "C:\\Projects\\LampShade\\0_Framework\\0_Framework.csproj",
         "projectName": "0_Framework",
-        "projectPath": "C:\\Projects\\LampShade\\LampShade\\0_Framework\\0_Framework.csproj",
+        "projectPath": "C:\\Projects\\LampShade\\0_Framework\\0_Framework.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\LampShade\\LampShade\\0_Framework\\obj\\",
+        "outputPath": "C:\\Projects\\LampShade\\0_Framework\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

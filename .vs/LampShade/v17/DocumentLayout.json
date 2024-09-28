@@ -1,18 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Projects\\LampShade\\LampShade\\",
+  "WorkspaceRootPath": "C:\\Projects\\LampShade\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{222EF56F-0397-4D4B-B7D6-09CA4EEB42FB}|ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj|c:\\projects\\lampshade\\lampshade\\shopmanagement.application.contracts\\productcategory\\iproductcategoryapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{222EF56F-0397-4D4B-B7D6-09CA4EEB42FB}|ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj|c:\\projects\\lampshade\\shopmanagement.application.contracts\\productcategory\\productcategoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222EF56F-0397-4D4B-B7D6-09CA4EEB42FB}|ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj|solutionrelative:shopmanagement.application.contracts\\productcategory\\productcategoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222EF56F-0397-4D4B-B7D6-09CA4EEB42FB}|ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj|c:\\projects\\lampshade\\shopmanagement.application.contracts\\productcategory\\productcategorysearchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222EF56F-0397-4D4B-B7D6-09CA4EEB42FB}|ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj|solutionrelative:shopmanagement.application.contracts\\productcategory\\productcategorysearchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222EF56F-0397-4D4B-B7D6-09CA4EEB42FB}|ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj|c:\\projects\\lampshade\\shopmanagement.application.contracts\\productcategory\\iproductcategoryapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{222EF56F-0397-4D4B-B7D6-09CA4EEB42FB}|ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj|solutionrelative:shopmanagement.application.contracts\\productcategory\\iproductcategoryapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F02FEA3F-8E3A-4B46-8B50-001BFA4D1576}|ShopManagement.Domain\\ShopManagement.Domain.csproj|c:\\projects\\lampshade\\lampshade\\shopmanagement.domain\\productcategoryagg\\iproductcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{222EF56F-0397-4D4B-B7D6-09CA4EEB42FB}|ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj|c:\\projects\\lampshade\\shopmanagement.application.contracts\\productcategory\\createproductcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222EF56F-0397-4D4B-B7D6-09CA4EEB42FB}|ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj|solutionrelative:shopmanagement.application.contracts\\productcategory\\createproductcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02FEA3F-8E3A-4B46-8B50-001BFA4D1576}|ShopManagement.Domain\\ShopManagement.Domain.csproj|c:\\projects\\lampshade\\shopmanagement.domain\\productcategoryagg\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02FEA3F-8E3A-4B46-8B50-001BFA4D1576}|ShopManagement.Domain\\ShopManagement.Domain.csproj|solutionrelative:shopmanagement.domain\\productcategoryagg\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C76069B-3886-4EDB-9DC4-20769E9686E8}|0_Framework\\0_Framework.csproj|c:\\projects\\lampshade\\0_framework\\infrastructure\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C76069B-3886-4EDB-9DC4-20769E9686E8}|0_Framework\\0_Framework.csproj|solutionrelative:0_framework\\infrastructure\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02FEA3F-8E3A-4B46-8B50-001BFA4D1576}|ShopManagement.Domain\\ShopManagement.Domain.csproj|c:\\projects\\lampshade\\shopmanagement.domain\\productcategoryagg\\iproductcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F02FEA3F-8E3A-4B46-8B50-001BFA4D1576}|ShopManagement.Domain\\ShopManagement.Domain.csproj|solutionrelative:shopmanagement.domain\\productcategoryagg\\iproductcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C76069B-3886-4EDB-9DC4-20769E9686E8}|0_Framework\\0_Framework.csproj|c:\\projects\\lampshade\\lampshade\\0_framework\\domain\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C76069B-3886-4EDB-9DC4-20769E9686E8}|0_Framework\\0_Framework.csproj|solutionrelative:0_framework\\domain\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4921FDB8-3294-435C-8189-C7592EFF38B8}|ServiceHost\\ServiceHost.csproj|c:\\projects\\lampshade\\servicehost\\areas\\administration\\pages\\shop\\productcategories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4921FDB8-3294-435C-8189-C7592EFF38B8}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\shop\\productcategories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4921FDB8-3294-435C-8189-C7592EFF38B8}|ServiceHost\\ServiceHost.csproj|c:\\projects\\lampshade\\servicehost\\areas\\administration\\pages\\shop\\productcategories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4921FDB8-3294-435C-8189-C7592EFF38B8}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\shop\\productcategories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4921FDB8-3294-435C-8189-C7592EFF38B8}|ServiceHost\\ServiceHost.csproj|c:\\projects\\lampshade\\servicehost\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4921FDB8-3294-435C-8189-C7592EFF38B8}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4921FDB8-3294-435C-8189-C7592EFF38B8}|ServiceHost\\ServiceHost.csproj|c:\\projects\\lampshade\\servicehost\\areas\\administration\\pages\\shop\\productcategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4921FDB8-3294-435C-8189-C7592EFF38B8}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\shop\\productcategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,41 +66,145 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IProductCategoryApplication.cs",
-              "DocumentMoniker": "C:\\Projects\\LampShade\\LampShade\\ShopManagement.Application.Contracts\\ProductCategory\\IProductCategoryApplication.cs",
-              "RelativeDocumentMoniker": "ShopManagement.Application.Contracts\\ProductCategory\\IProductCategoryApplication.cs",
-              "ToolTip": "C:\\Projects\\LampShade\\LampShade\\ShopManagement.Application.Contracts\\ProductCategory\\IProductCategoryApplication.cs",
-              "RelativeToolTip": "ShopManagement.Application.Contracts\\ProductCategory\\IProductCategoryApplication.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T19:22:50.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IProductCategoryRepository.cs",
-              "DocumentMoniker": "C:\\Projects\\LampShade\\LampShade\\ShopManagement.Domain\\ProductCategoryAgg\\IProductCategoryRepository.cs",
-              "RelativeDocumentMoniker": "ShopManagement.Domain\\ProductCategoryAgg\\IProductCategoryRepository.cs",
-              "ToolTip": "C:\\Projects\\LampShade\\LampShade\\ShopManagement.Domain\\ProductCategoryAgg\\IProductCategoryRepository.cs",
-              "RelativeToolTip": "ShopManagement.Domain\\ProductCategoryAgg\\IProductCategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Title": "ProductCategorySearchModel.cs",
+              "DocumentMoniker": "C:\\Projects\\LampShade\\ShopManagement.Application.Contracts\\ProductCategory\\ProductCategorySearchModel.cs",
+              "RelativeDocumentMoniker": "ShopManagement.Application.Contracts\\ProductCategory\\ProductCategorySearchModel.cs",
+              "ToolTip": "C:\\Projects\\LampShade\\ShopManagement.Application.Contracts\\ProductCategory\\ProductCategorySearchModel.cs",
+              "RelativeToolTip": "ShopManagement.Application.Contracts\\ProductCategory\\ProductCategorySearchModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T19:11:39.952Z",
+              "WhenOpened": "2024-09-28T20:20:32.087Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EntityBase.cs",
-              "DocumentMoniker": "C:\\Projects\\LampShade\\LampShade\\0_Framework\\Domain\\EntityBase.cs",
-              "RelativeDocumentMoniker": "0_Framework\\Domain\\EntityBase.cs",
-              "ToolTip": "C:\\Projects\\LampShade\\LampShade\\0_Framework\\Domain\\EntityBase.cs",
-              "RelativeToolTip": "0_Framework\\Domain\\EntityBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Title": "IProductCategoryApplication.cs",
+              "DocumentMoniker": "C:\\Projects\\LampShade\\ShopManagement.Application.Contracts\\ProductCategory\\IProductCategoryApplication.cs",
+              "RelativeDocumentMoniker": "ShopManagement.Application.Contracts\\ProductCategory\\IProductCategoryApplication.cs",
+              "ToolTip": "C:\\Projects\\LampShade\\ShopManagement.Application.Contracts\\ProductCategory\\IProductCategoryApplication.cs",
+              "RelativeToolTip": "ShopManagement.Application.Contracts\\ProductCategory\\IProductCategoryApplication.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T18:58:06.796Z",
+              "WhenOpened": "2024-09-28T20:20:28.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateProductCategory.cs",
+              "DocumentMoniker": "C:\\Projects\\LampShade\\ShopManagement.Application.Contracts\\ProductCategory\\CreateProductCategory.cs",
+              "RelativeDocumentMoniker": "ShopManagement.Application.Contracts\\ProductCategory\\CreateProductCategory.cs",
+              "ToolTip": "C:\\Projects\\LampShade\\ShopManagement.Application.Contracts\\ProductCategory\\CreateProductCategory.cs",
+              "RelativeToolTip": "ShopManagement.Application.Contracts\\ProductCategory\\CreateProductCategory.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T20:20:14.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductCategoryViewModel.cs",
+              "DocumentMoniker": "C:\\Projects\\LampShade\\ShopManagement.Application.Contracts\\ProductCategory\\ProductCategoryViewModel.cs",
+              "RelativeDocumentMoniker": "ShopManagement.Application.Contracts\\ProductCategory\\ProductCategoryViewModel.cs",
+              "ToolTip": "C:\\Projects\\LampShade\\ShopManagement.Application.Contracts\\ProductCategory\\ProductCategoryViewModel.cs",
+              "RelativeToolTip": "ShopManagement.Application.Contracts\\ProductCategory\\ProductCategoryViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T20:19:51.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\LampShade\\ShopManagement.Domain\\ProductCategoryAgg\\IProductCategoryRepository.cs",
+              "RelativeDocumentMoniker": "ShopManagement.Domain\\ProductCategoryAgg\\IProductCategoryRepository.cs",
+              "ToolTip": "C:\\Projects\\LampShade\\ShopManagement.Domain\\ProductCategoryAgg\\IProductCategoryRepository.cs",
+              "RelativeToolTip": "ShopManagement.Domain\\ProductCategoryAgg\\IProductCategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T20:16:48.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Projects\\LampShade\\ShopManagement.Domain\\ProductCategoryAgg\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "ShopManagement.Domain\\ProductCategoryAgg\\ProductCategory.cs",
+              "ToolTip": "C:\\Projects\\LampShade\\ShopManagement.Domain\\ProductCategoryAgg\\ProductCategory.cs",
+              "RelativeToolTip": "ShopManagement.Domain\\ProductCategoryAgg\\ProductCategory.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwCEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T20:16:27.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Projects\\LampShade\\0_Framework\\Infrastructure\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "0_Framework\\Infrastructure\\RepositoryBase.cs",
+              "ToolTip": "C:\\Projects\\LampShade\\0_Framework\\Infrastructure\\RepositoryBase.cs",
+              "RelativeToolTip": "0_Framework\\Infrastructure\\RepositoryBase.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAwwCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T20:11:31.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Projects\\LampShade\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories\\Create.cshtml",
+              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories\\Create.cshtml",
+              "ToolTip": "C:\\Projects\\LampShade\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories\\Create.cshtml",
+              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T19:51:22.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Projects\\LampShade\\ServiceHost\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ServiceHost\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Projects\\LampShade\\ServiceHost\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ServiceHost\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-28T19:47:33.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Projects\\LampShade\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories\\Index.cshtml.cs",
+              "ToolTip": "C:\\Projects\\LampShade\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories\\Index.cshtml.cs",
+              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories\\Index.cshtml.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA/wCIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T14:03:13.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\LampShade\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories\\Index.cshtml",
+              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\LampShade\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories\\Index.cshtml",
+              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAADgvx4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T14:02:36.737Z",
               "EditorCaption": ""
             }
           ]

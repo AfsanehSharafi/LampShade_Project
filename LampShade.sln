@@ -7,13 +7,23 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ShopManagement", "ShopManag
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SM.Domain", "SM.Domain", "{CF0C207B-AE56-44E5-AB93-01545ACE3DA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopManagement.Domain", "ShopManagement.Domain\ShopManagement.Domain.csproj", "{F02FEA3F-8E3A-4B46-8B50-001BFA4D1576}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopManagement.Domain", "ShopManagement.Domain\ShopManagement.Domain.csproj", "{F02FEA3F-8E3A-4B46-8B50-001BFA4D1576}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0_Framework", "0_Framework\0_Framework.csproj", "{7C76069B-3886-4EDB-9DC4-20769E9686E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0_Framework", "0_Framework\0_Framework.csproj", "{7C76069B-3886-4EDB-9DC4-20769E9686E8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SM.Application", "SM.Application", "{6226B0D6-62DB-47CC-AE5E-A0BA8CC4DA66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopManagement.Application.Contracts", "ShopManagement.Application.Contracts\ShopManagement.Application.Contracts.csproj", "{222EF56F-0397-4D4B-B7D6-09CA4EEB42FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopManagement.Application.Contracts", "ShopManagement.Application.Contracts\ShopManagement.Application.Contracts.csproj", "{222EF56F-0397-4D4B-B7D6-09CA4EEB42FB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopManagement.Application", "SM.Application\ShopManagement.Application.csproj", "{59D37DDA-95E2-490A-B472-13BF4D74ECC8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SM.Infrastructure", "SM.Infrastructure", "{BB722793-D285-420D-9E7B-689833E839E3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopManagement.Infrastructure.EFCore", "ShopManagement.Infrastructure.EFCore\ShopManagement.Infrastructure.EFCore.csproj", "{62E7987C-1A53-48BB-860C-065796DB9D4A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopManagement.Configuration", "ShopManagement.Configuration\ShopManagement.Configuration.csproj", "{867AE604-A4E2-4A15-AAC8-B7D151C868A7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceHost", "ServiceHost\ServiceHost.csproj", "{4921FDB8-3294-435C-8189-C7592EFF38B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +43,22 @@ Global
 		{222EF56F-0397-4D4B-B7D6-09CA4EEB42FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{222EF56F-0397-4D4B-B7D6-09CA4EEB42FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{222EF56F-0397-4D4B-B7D6-09CA4EEB42FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59D37DDA-95E2-490A-B472-13BF4D74ECC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59D37DDA-95E2-490A-B472-13BF4D74ECC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59D37DDA-95E2-490A-B472-13BF4D74ECC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59D37DDA-95E2-490A-B472-13BF4D74ECC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62E7987C-1A53-48BB-860C-065796DB9D4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62E7987C-1A53-48BB-860C-065796DB9D4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62E7987C-1A53-48BB-860C-065796DB9D4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62E7987C-1A53-48BB-860C-065796DB9D4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{867AE604-A4E2-4A15-AAC8-B7D151C868A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{867AE604-A4E2-4A15-AAC8-B7D151C868A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{867AE604-A4E2-4A15-AAC8-B7D151C868A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{867AE604-A4E2-4A15-AAC8-B7D151C868A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4921FDB8-3294-435C-8189-C7592EFF38B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4921FDB8-3294-435C-8189-C7592EFF38B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4921FDB8-3294-435C-8189-C7592EFF38B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4921FDB8-3294-435C-8189-C7592EFF38B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -42,6 +68,10 @@ Global
 		{F02FEA3F-8E3A-4B46-8B50-001BFA4D1576} = {CF0C207B-AE56-44E5-AB93-01545ACE3DA4}
 		{6226B0D6-62DB-47CC-AE5E-A0BA8CC4DA66} = {625310BD-71B2-4F11-B48A-5AC606F95908}
 		{222EF56F-0397-4D4B-B7D6-09CA4EEB42FB} = {6226B0D6-62DB-47CC-AE5E-A0BA8CC4DA66}
+		{59D37DDA-95E2-490A-B472-13BF4D74ECC8} = {6226B0D6-62DB-47CC-AE5E-A0BA8CC4DA66}
+		{BB722793-D285-420D-9E7B-689833E839E3} = {625310BD-71B2-4F11-B48A-5AC606F95908}
+		{62E7987C-1A53-48BB-860C-065796DB9D4A} = {BB722793-D285-420D-9E7B-689833E839E3}
+		{867AE604-A4E2-4A15-AAC8-B7D151C868A7} = {BB722793-D285-420D-9E7B-689833E839E3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1C306C4A-8B88-4EB0-9E83-07EFF764ECA5}
