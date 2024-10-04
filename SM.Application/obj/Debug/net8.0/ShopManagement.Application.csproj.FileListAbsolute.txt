@@ -18,3 +18,5 @@ C:\Projects\LampShade\SM.Application\obj\Debug\net8.0\ShopManagement.Application
 C:\Projects\LampShade\SM.Application\obj\Debug\net8.0\refint\ShopManagement.Application.dll
 C:\Projects\LampShade\SM.Application\obj\Debug\net8.0\ShopManagement.Application.pdb
 C:\Projects\LampShade\SM.Application\obj\Debug\net8.0\ref\ShopManagement.Application.dll
+C:\Projects\LampShade\SM.Application\bin\Debug\net8.0\ShopManagement.Infrastructure.EFCore.dll
+C:\Projects\LampShade\SM.Application\bin\Debug\net8.0\ShopManagement.Infrastructure.EFCore.pdb
