@@ -1,7 +1,7 @@
 {
   "version": 2,
   "dgSpecHash": "XnK7esSouMA=",
-  "success": true,
+  "success": false,
   "projectFilePath": "C:\\Projects\\LampShade\\SM.Application\\ShopManagement.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
@@ -32,8 +32,6 @@
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.35.0\\microsoft.identitymodel.protocols.6.35.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.35.0\\microsoft.identitymodel.protocols.openidconnect.6.35.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.35.0\\microsoft.identitymodel.tokens.6.35.0.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.1\\system.configuration.configurationmanager.6.0.1.nupkg.sha512",
@@ -45,7 +43,6 @@
     "C:\\Users\\Admin\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.runtime.caching\\6.0.0\\system.runtime.caching.6.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
@@ -53,7 +50,6 @@
     "C:\\Users\\Admin\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
@@ -62,10 +58,13 @@
   ],
   "logs": [
     {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
+      "code": "NU1102",
+      "level": "Error",
+      "message": "Unable to find package System.Text.Encoding with version (>= 4.3.0)\r\n  - Found 2 version(s) in Microsoft Visual Studio Offline Packages [ Nearest version: 4.0.11 ]\r\n  - Versions from C:\\Program Files\\dotnet\\library-packs were not considered\r\n  - Versions from nuget.org were not considered",
+      "libraryId": "System.Text.Encoding",
+      "targetGraphs": [
+        "net8.0"
+      ]
     }
   ]
 }

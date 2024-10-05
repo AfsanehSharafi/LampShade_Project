@@ -33,7 +33,7 @@
                     <a asp-page="/Comments/Index" class="waves-effect"><i class="md md-home"></i><span> کامنت ها </span></a>
                 </li>
                 @* @if (AuthHelper.CurrentAccountRole() == Roles.Administrator)
-                {
+                { *@
 
                     <li>
                         <a asp-page="/Inventory/Index" class="waves-effect"><i class="md md-home"></i><span> انبارداری </span></a>
@@ -64,7 +64,7 @@
                             <li><a asp-page="/Accounts/Role/Index">نقش ها</a></li>
                         </ul>
                     </li>
-                } *@
+                @* } *@
                 <li class="has_sub">
                     <a class="waves-effect"><i class="md md-mail"></i><span> سیستم بلاگینگ </span><span class="pull-right"><i class="md md-add"></i></span></a>
                     <ul class="list-unstyled">

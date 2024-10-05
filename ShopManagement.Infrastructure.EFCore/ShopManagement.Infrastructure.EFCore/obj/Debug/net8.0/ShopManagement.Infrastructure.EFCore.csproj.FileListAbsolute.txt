@@ -1,0 +1,5 @@
+C:\Projects\LampShade\ShopManagement.Infrastructure.EFCore\ShopManagement.Infrastructure.EFCore\obj\Debug\net8.0\ShopManagement.Infrastructure.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\LampShade\ShopManagement.Infrastructure.EFCore\ShopManagement.Infrastructure.EFCore\obj\Debug\net8.0\ShopManagement.Infrastructure.EFCore.AssemblyInfoInputs.cache
+C:\Projects\LampShade\ShopManagement.Infrastructure.EFCore\ShopManagement.Infrastructure.EFCore\obj\Debug\net8.0\ShopManagement.Infrastructure.EFCore.AssemblyInfo.cs
+C:\Projects\LampShade\ShopManagement.Infrastructure.EFCore\ShopManagement.Infrastructure.EFCore\obj\Debug\net8.0\ShopManagement.Infrastructure.EFCore.csproj.CoreCompileInputs.cache
+C:\Projects\LampShade\ShopManagement.Infrastructure.EFCore\ShopManagement.Infrastructure.EFCore\obj\Debug\net8.0\ShopManagement.Infrastructure.EFCore.sourcelink.json

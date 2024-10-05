@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "CgAE+ibx5Ls=",
+  "dgSpecHash": "uu904lXO+qU=",
   "success": true,
   "projectFilePath": "C:\\Projects\\LampShade\\0_Framework\\0_Framework.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.8\\microsoft.entityframeworkcore.8.0.8.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.8\\microsoft.entityframeworkcore.abstractions.8.0.8.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.8\\microsoft.entityframeworkcore.analyzers.8.0.8.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.0\\microsoft.entityframeworkcore.8.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.0\\microsoft.entityframeworkcore.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.0\\microsoft.entityframeworkcore.analyzers.8.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
